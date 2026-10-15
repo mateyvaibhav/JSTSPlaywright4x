@@ -1,0 +1,23 @@
+{
+  "name": "jstsplaywright4x",
+  "version": "1.0.0",
+  "description": "Learning and deliverable repository for **AI / LLM fundamentals**, **JavaScript basics**, and **AI-assisted QA & test engineering**.",
+  "homepage": "https://github.com/mateyvaibhav/JSTSPlaywright4x#readme",
+  "bugs": {
+    "url": "https://github.com/mateyvaibhav/JSTSPlaywright4x/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateyvaibhav/JSTSPlaywright4x.git"
+  },
+  "license": "ISC",
+  "author": "vaibhav",
+  "type": "commonjs",
+  "main": "03_chapter_literals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
