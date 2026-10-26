@@ -34,4 +34,9 @@ So digits come before uppercase letters, and uppercase letters come before lower
 
 **The fixes:**
 - **Numbers:** `.sort((a, b) => a - b)`
+
+
+4,7,6,2,10
+array.sort((a,b) => a-b )
+4 7 = 
 - **Text, ignoring case the way people expect:** `.sort((a, b) => a.localeCompare(b))`
